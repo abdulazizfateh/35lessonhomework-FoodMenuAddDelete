@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+@font-face {
+    font-family: B400;
+    src: url(../fonts/Barlow-Regular.ttf);
+}
+
+@font-face {
+    font-family: B500;
+    src: url(../fonts/Barlow-Medium.ttf);
+}
+
+@font-face {
+    font-family: B600;
+    src: url(../fonts/Barlow-SemiBold.ttf);
+}
